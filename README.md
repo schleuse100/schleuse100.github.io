@@ -1,4 +1,3 @@
 # schleuse100.github.io
 
-gitHub pages
-so thats where I can eddit the website...
+A personal research assistant to study mathematics/ computer science. Created with GitHub pages.
